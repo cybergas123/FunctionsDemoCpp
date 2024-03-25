@@ -2,7 +2,7 @@
 
 using namespace std;
  
-
+ 
 void check(int p_number1, int p_number2, int p_number3) {
     if (p_number1 >= 20 && p_number1 <= 50 && p_number2 >= 20 && p_number2 <= 50 && p_number3 >= 20 && p_number3 <= 50)
     {
